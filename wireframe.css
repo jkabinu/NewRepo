@@ -1,0 +1,28 @@
+div {
+	display: block;
+}
+
+body {
+	background-color: grey;
+	font-family: arial;
+	color: grey;
+}
+.class1 {
+	text-align: center;
+	margin: 10px 200px 0px 200px;
+	background-color: #ebebe0;
+	padding: 30px;
+
+}
+.sect1 {
+	float: left;
+	text-align: center;
+	background-color: #ebebe0;
+	margin: 10px 400px 0px 200px;
+	padding: 50px;
+}
+
+.art1 {
+	text-align: center;
+	background-color: #ebebe0;
+}
